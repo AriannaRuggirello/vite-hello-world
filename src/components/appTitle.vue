@@ -1,8 +1,7 @@
 <script>
 export default {
-    name: 'AppTitle'
+    name: "appTitle"
 }
-
 
 </script>
 
@@ -11,7 +10,7 @@ export default {
 </template>
 
 <style scoped>
-h1 {
-    color: palevioletred;
+.read-the-docs {
+    color: yellow;
 }
 </style>
