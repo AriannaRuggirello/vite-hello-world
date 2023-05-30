@@ -10,7 +10,8 @@ export default {
 </template>
 
 <style scoped>
-.read-the-docs {
-    color: yellow;
+h1 {
+    color: #646cffaa;
+
 }
 </style>
